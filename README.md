@@ -1,7 +1,7 @@
 # dind-jessie
 Docker container for running docker-in-docker on Debian Jessie
 
-The official Docker Library for ![dind](https://hub.docker.com/_/docker/) is based off of Alpine Linux and difficult to develop on.
+The official Docker Library for [dind](https://hub.docker.com/_/docker/) is based off of Alpine Linux and difficult to develop on.
 Because of this, I wrote this image which uses Debian Jessie instead.
 
 ## Usage
